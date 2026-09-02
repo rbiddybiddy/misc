@@ -1,0 +1,2 @@
+# Normalize line endings in the repo, keeping CRLF in the working tree.
+*.md  text eol=crlf
